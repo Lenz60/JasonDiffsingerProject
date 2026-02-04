@@ -1,0 +1,21 @@
+{
+    "name": "itoshi4_norm.wav",
+    "file": "wav/itoshi4_norm.wav",
+    "convertedFile": null,
+    "moduleName": "itoshi4_norm",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 1364556,
+    "lengthMillis": 30942.312,
+    "chunkSize": 341139,
+    "chunkCount": 4,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1770223535336,
+    "algorithmVersion": 4
+}

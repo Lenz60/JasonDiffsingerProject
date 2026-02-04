@@ -1,0 +1,21 @@
+{
+    "name": "tsubasa2_norm.wav",
+    "file": "wav/tsubasa2_norm.wav",
+    "convertedFile": null,
+    "moduleName": "tsubasa2_norm",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 769745,
+    "lengthMillis": 17454.535,
+    "chunkSize": 384872,
+    "chunkCount": 2,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1770224710830,
+    "algorithmVersion": 4
+}

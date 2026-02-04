@@ -1,0 +1,21 @@
+{
+    "name": "troika1_norm.wav",
+    "file": "wav/troika1_norm.wav",
+    "convertedFile": null,
+    "moduleName": "troika1_norm",
+    "sampleRate": 44100.0,
+    "maxSampleRate": 44100,
+    "normalize": false,
+    "normalizeRatio": null,
+    "channels": 1,
+    "length": 1090861,
+    "lengthMillis": 24736.076,
+    "chunkSize": 363620,
+    "chunkCount": 3,
+    "hasSpectrogram": true,
+    "hasPower": false,
+    "powerChannels": 1,
+    "hasFundamental": false,
+    "lastModified": 1770224170114,
+    "algorithmVersion": 4
+}
